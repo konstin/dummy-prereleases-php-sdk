@@ -1,0 +1,9 @@
+{
+  "name": "konstin2/dummy-prereleases-php-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "require": {
+    "php": ">=8.2",
+    "konstin2/dummy-prereleases-php-core": "1.0.0-ALPHA4"
+  }
+}
